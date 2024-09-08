@@ -1,0 +1,15 @@
+M
+2
+4
+//sample M mode input file with two 4x4 levels
+//test invalid map character
+//level 0
+.H..
+F..F
+E..S
+#..#
+//level 1
+.F..
+#.F.
+E#..
+#..F

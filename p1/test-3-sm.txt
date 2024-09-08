@@ -1,0 +1,29 @@
+M
+5
+4
+//lots of E and #.
+//level 0
+EEEE
+EEEE
+EEEE
+EEEE
+//level 1
+EEEE
+EEEE
+EEEE
+EEEE
+//level 2
+####
+####
+####
+####
+//level 3
+.H..
+...E
+E.ES
+#..#
+//level 4
+....
+#...
+E#..
+#...

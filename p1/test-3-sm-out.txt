@@ -1,0 +1,132 @@
+before cin useless is: //lots of E and #.
+before cin useless is: //level 0
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: //level 1
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+useless is: EEEE
+before cin useless is: //level 2
+before cin useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+before cin useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+before cin useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+before cin useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+useless is: ####
+before cin useless is: //level 3
+before cin useless is: .H..
+useless is: .H..
+useless is: .H..
+useless is: .H..
+useless is: .H..
+before cin useless is: ...E
+useless is: ...E
+useless is: ...E
+useless is: ...E
+useless is: ...E
+before cin useless is: E.ES
+useless is: E.ES
+useless is: E.ES
+useless is: E.ES
+useless is: E.ES
+before cin useless is: #..#
+useless is: #..#
+useless is: #..#
+useless is: #..#
+useless is: #..#
+before cin useless is: //level 4
+before cin useless is: ....
+useless is: ....
+useless is: ....
+useless is: ....
+useless is: ....
+before cin useless is: #...
+useless is: #...
+useless is: #...
+useless is: #...
+useless is: #...
+before cin useless is: E#..
+useless is: E#..
+useless is: E#..
+useless is: E#..
+useless is: E#..
+before cin useless is: #...
+useless is: #...
+useless is: #...
+useless is: #...
+useless is: #...
+Start in level 3, row 2, column 3
+//level 0
+EEEE
+EEEE
+3wEE
+EEEE
+//level 1
+EEEE
+EEEE
+E0wE
+EEEE
+//level 2
+####
+####
+####
+####
+//level 3
+.H..
+en.E
+n.1w
+#..#
+//level 4
+....
+#...
+E#..
+#...

@@ -1,0 +1,10 @@
+L
+2
+4
+//sample using elevator
+//invalid row/col/level
+(2,4,4,E)
+(1,2,0,S)
+(0,0,3,E)
+(0,3,0,H)
+(1,3,0,#)
