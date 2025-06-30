@@ -1,0 +1,35 @@
+Processing orders...
+Trader 1 purchased 14 shares of Stock 3 from Trader 3 for $2/share
+Median match price of Stock 3 at time 0 is $2
+Trader 2 purchased 1 shares of Stock 0 from Trader 3 for $68/share
+Trader 1 purchased 3 shares of Stock 0 from Trader 3 for $52/share
+Trader 0 purchased 17 shares of Stock 0 from Trader 3 for $27/share
+Median match price of Stock 0 at time 1 is $52
+Median match price of Stock 3 at time 1 is $2
+Trader 0 purchased 39 shares of Stock 1 from Trader 1 for $76/share
+Trader 4 purchased 15 shares of Stock 2 from Trader 4 for $97/share
+Median match price of Stock 0 at time 2 is $52
+Median match price of Stock 1 at time 2 is $76
+Median match price of Stock 2 at time 2 is $97
+Median match price of Stock 3 at time 2 is $2
+Trader 0 purchased 7 shares of Stock 1 from Trader 2 for $76/share
+Trader 4 purchased 25 shares of Stock 2 from Trader 0 for $100/share
+Trader 4 purchased 13 shares of Stock 2 from Trader 0 for $71/share
+Trader 2 purchased 9 shares of Stock 2 from Trader 0 for $70/share
+Median match price of Stock 0 at time 3 is $52
+Median match price of Stock 1 at time 3 is $76
+Median match price of Stock 2 at time 3 is $84
+Median match price of Stock 3 at time 3 is $2
+---End of Day---
+Trades Completed: 10
+---Trader Info---
+Trader 0 bought 63 and sold 47 for a net transfer of $98
+Trader 1 bought 17 and sold 39 for a net transfer of $2780
+Trader 2 bought 10 and sold 7 for a net transfer of $-166
+Trader 3 bought 0 and sold 35 for a net transfer of $711
+Trader 4 bought 53 and sold 15 for a net transfer of $-3423
+---Time Travelers---
+A time traveler would buy Stock 0 at time 1 for $27 and sell it at time 1 for $54
+A time traveler would buy Stock 1 at time 2 for $41 and sell it at time 3 for $73
+A time traveler would buy Stock 2 at time 0 for $97 and sell it at time 2 for $100
+A time traveler would buy Stock 3 at time 0 for $2 and sell it at time 0 for $64
