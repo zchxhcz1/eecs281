@@ -1,0 +1,6 @@
+Processing orders...
+---End of Day---
+Trades Completed: 17
+---Time Travelers---
+A time traveler would buy Stock 0 at time 0 for $14234 and sell it at time 211 for $3265168
+A time traveler would buy Stock 1 at time 1 for $1345 and sell it at time 211 for $3424792

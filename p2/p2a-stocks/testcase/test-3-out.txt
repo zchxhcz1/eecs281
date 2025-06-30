@@ -1,0 +1,7 @@
+Processing orders...
+Trader 8 purchased 25 shares of Stock 7 from Trader 8 for $107/share
+Trader 8 purchased 25 shares of Stock 7 from Trader 2 for $110/share
+Trader 8 purchased 23 shares of Stock 7 from Trader 2 for $81/share
+Trader 22 purchased 9 shares of Stock 7 from Trader 2 for $80/share
+---End of Day---
+Trades Completed: 4
